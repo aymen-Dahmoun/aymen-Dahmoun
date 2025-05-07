@@ -49,7 +49,7 @@
   _Desktop Application developed fully by C language, data is handeled using txt files_  
   Tech: `C, GTK4`  
   👉 (https://github.com/aymen-Dahmoun/FlatBase)
-  - 🛠️ **Node JS server**  
+- 🛠️ **Node JS server**  
   _fuly node (express.js) developed server_  
   Tech: `Node js, express.js, jsonwebtoken, arcjet, neao postgreSQL`  
   👉 (https://github.com/aymen-Dahmoun/node_js_server)
