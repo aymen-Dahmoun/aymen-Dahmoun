@@ -14,7 +14,7 @@
 
 - 🧱 I’m building smart apps that blend **AI** with real-world utility.
 - 📱 I develop cross-platform mobile applications using **React Native** and native Android (**Kotlin**).
-- 🛠️ I love backend work — from scalable REST APIs with **Node JS** and **Express.js** to automation tools with Python.
+- 🛠️ I love backend work — from scalable REST APIs with **Node JS** and **Express.js** to automation tools with **Python**.
 - 🤖 I integrate **Python AI libraries** and APIs to bring smart features to my apps.
 - 🚀 Always learning and experimenting with new tech stacks and tools.
 
@@ -26,7 +26,7 @@
 |------------------|--------------------------------------------------------------------------------|
 | **Languages**    | `JavaScript`, `Kotlin`, `Python`, `TypeScript`, `SQL`                         |
 | **Mobile**       | `React Native`, `Kotlin` (Jetpack Compose, XML), `Expo`                       |
-| **Backend**      | `Express.js`, `Node.js`, Next.js                  |
+| **Backend**      | `Express.js`, `Node.js`, `Next.js`                  |
 | **Database**     | `PostgreSQL`, `MySQL`, `SQLite`, `Supabase`                                   |
 | **AI Tools**     | `DeepFace`, `OpenCV`, `APScheduler`, `MT5 API`                |
 | **Dev Tools**    | `Git`, `GitHub`, `Postman`, `Docker`, `VS Code`, `Adobe`                      |
