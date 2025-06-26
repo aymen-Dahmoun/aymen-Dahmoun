@@ -43,7 +43,7 @@
 - 📲 **MEyouch Shop*  
   _E-commerce website developed with react and supabase, powered by a mobile dashboard app_  
   Tech: `React, React Native, Supabase`  
-  👉 (meyouchshop.me)
+  👉 (https://meyouchshop.me)
 
 - ⚡ **C developed desktop application**  
   _Desktop Application developed fully by C language, data is handeled using txt files_  
