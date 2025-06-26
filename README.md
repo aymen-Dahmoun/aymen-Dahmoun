@@ -40,10 +40,10 @@
   Tech: `React Native, Expo`  
   👉 (https://github.com/aymen-Dahmoun/Mood_Tracker)
 
-- 📲 **Quizzes AI coded Website**  
-  _Vibe coded website before vibe coding wasn't even known_  
-  Tech: `Vanilla JavaScript`  
-  👉 (https://github.com/aymen-Dahmoun/aiweb.github.io)
+- 📲 **MEyouch Shop*  
+  _E-commerce website developed with react and supabase, powered by a mobile dashboard app_  
+  Tech: `React, React Native, Supabase`  
+  👉 (meyouchshop.me)
 
 - ⚡ **C developed desktop application**  
   _Desktop Application developed fully by C language, data is handeled using txt files_  
