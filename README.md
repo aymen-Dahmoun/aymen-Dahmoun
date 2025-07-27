@@ -79,9 +79,9 @@
   _Track your emotions throughout the day_  
   Tech: `React Native`, `Expo`
 
-- 🛍️ **[MEyouch Shop](https://meyouchshop.me)**  
+- 🛍️ **[Meyouch Shop](https://meyouchshop.me)**  
   _E-commerce web and mobile dashboard system_  
-  Tech: `React`, `React Native`, `Supabase`
+  Tech: `React`, `Vercel`, `Supabase`
 
 - 💻 **[FlatBase - C Desktop App](https://github.com/aymen-Dahmoun/FlatBase)**  
   _Desktop app built fully in C using GTK4, data via .txt files_  
